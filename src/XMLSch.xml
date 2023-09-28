@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XMLSchema.xsd">
+<cancion duracion="4:47" anio="2008">
+    <titulo>Give it 2 me</titulo>
+    <compositores>
+        <compositor>
+            <nombres>Pharell</nombres>
+            <apellidos>Williams</apellidos>
+        </compositor>
+    </compositores>
+    <productores>
+        <productor>
+            <nombres>Pharell</nombres>
+            <apellidos>Williams</apellidos>
+        </productor>
+    </productores>
+    <sello>Warner Bros. Records</sello>
+    <artista>Madonna</artista>
+</cancion>
+
+    <cancion duracion="3:33" anio="1987">
+        <titulo>Never Gonna Give You Up</titulo>
+        <compositores>
+            <compositor>
+                <nombres>Matt</nombres>
+                <apellidos>Aitken</apellidos>
+            </compositor>
+            <compositor>
+                <nombres>Mike</nombres>
+                <apellidos>Stock</apellidos>
+            </compositor>
+            <compositor>
+                <nombres>Rick</nombres>
+                <apellidos>Astley</apellidos>
+            </compositor>
+        </compositores>
+        <productores>
+            <productor>
+                <nombres>Pete</nombres>
+                <apellidos>Waterman</apellidos>
+            </productor>
+            <productor>
+                <nombres>Mike</nombres>
+                <apellidos>Stock</apellidos>
+            </productor>
+            <productor>
+                <nombres>Matt</nombres>
+                <apellidos>Aitken</apellidos>
+            </productor>
+        </productores>
+        <sello>RCA Records</sello>
+        <artista>Rick Astley</artista>
+    </cancion>
+
+
+    <cancion duracion="4:01" anio="1979">
+        <titulo>I Was Made for Lovin' You</titulo>
+        <compositores>
+            <compositor>
+                <nombres>Paul</nombres>
+                <apellidos>Stanley</apellidos>
+            </compositor>
+            <compositor>
+                <nombres>Desmond</nombres>
+                <apellidos>Child</apellidos>
+            </compositor>
+            <compositor>
+                <nombres>Vini</nombres>
+                <apellidos>Poncia</apellidos>
+            </compositor>
+        </compositores>
+        <productores>
+            <productor>
+                <nombres>Vini</nombres>
+                <apellidos>Poncia</apellidos>
+            </productor>
+        </productores>
+        <sello>Casablanca Records</sello>
+        <artista>KISS</artista>
+    </cancion>
+
+</canciones>

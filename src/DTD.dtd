@@ -1,0 +1,20 @@
+<!ELEMENT cancion (titulo, compositores, productores, sello, artista)>
+<!ATTLIST cancion duracion CDATA>
+<!ATTLIST cancion anio CDATA>
+
+<!ELEMENT titulo (#PCDATA)>
+
+<!ELEMENT compositores (compositor*)>
+<!ELEMENT compositor (nombres, apellidos)>
+<!ELEMENT nombres (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+
+<!ELEMENT productores (productor*)>
+<!ELEMENT productor (nombres, apellidos)>
+
+<!ELEMENT sello (#PCDATA)>
+
+<!ELEMENT artista (#PCDATA)>
+
+
+<!ELEMENT canciones (cancion*)>
